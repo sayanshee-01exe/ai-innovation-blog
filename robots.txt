@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sayanshee-01exe.github.io/ai-innovation-blog/sitemap.xml

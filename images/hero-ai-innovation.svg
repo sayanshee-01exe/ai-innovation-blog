@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-labelledby="t"><title id="t">Rising curve of AI capability over time</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1a33"/><stop offset="1" stop-color="#1b0f3a"/></linearGradient>
+<linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<g stroke="#ffffff" stroke-opacity=".07">
+<path d="M80 100H1120M80 200H1120M80 300H1120M80 400H1120M80 500H1120"/><path d="M200 60V540M400 60V540M600 60V540M800 60V540M1000 60V540"/></g>
+<path d="M80 520 C 400 510, 600 480, 760 400 S 1000 160, 1120 70" fill="none" stroke="url(#ln)" stroke-width="10" stroke-linecap="round"/>
+<g fill="#e0f2fe"><circle cx="300" cy="512" r="9"/><circle cx="560" cy="478" r="9"/><circle cx="760" cy="400" r="11"/><circle cx="950" cy="230" r="12"/><circle cx="1120" cy="70" r="14"/></g>
+<g font-family="Arial, Helvetica, sans-serif" fill="#ffffff"><text x="80" y="590" font-size="30" font-weight="700">AI Pulse</text><text x="1120" y="590" font-size="24" text-anchor="end" fill="#cbd5e1">Rapid AI Innovation · 2026</text></g>
+</svg>
